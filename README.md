@@ -17,3 +17,5 @@
 7. 编译反编译ddl [ResourceHacker](./ResourceHacker.4.2.5.146.chs.th_sjy.exe)
 
 8. [kms激活windows](./HEU_KMS_Activator_v10.0.0.exe)
+
+9. 聚焦、必应壁纸 https://www.microsoft.com/store/productId/9NBLGGH1ZBKW
