@@ -2,6 +2,8 @@
 
 ## 一些有用的软件（windows下）
 
+## 有帮助的话给个star
+
 1. 万彩办公大师OfficeBox  http://www.wofficebox.com/
 
 2. [录屏转GIF](./ScreenToGif.exe)  https://www.screentogif.com/
@@ -27,3 +29,9 @@
 11. [思杰m克丁(╯>д<)╯⁽˙³˙⁾>)qs mathtype](./MathType-59p-oshan.7z)
 
 12. [Office13-19安装器](./Office+2013-2019+C2R+Install+v6.3.zip)
+
+13. [迅雷极速版，绿化防升级](./迅雷极速防升级.7z) [ant下载器](https://github.com/anatasluo/ant) [or](./ant-downloader.1.3.6-Windows-64.exe)
+
+14. [使用 OLED 任务栏透明](./Windows_注册表_使用OLED任务栏透明度.reg)
+
+15. [自由门](./fg764p.zip)
