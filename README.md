@@ -34,4 +34,60 @@
 
 14. [使用 OLED 任务栏透明](./Windows_注册表_使用OLED任务栏透明度.reg)
 
-15. [自由门](./fg764p.zip)
+15. [自由 门](./fg764p.zip)
+
+16. [思杰 m克丁(╯>д<)╯⁽˙³˙⁾>)qs ccleaner](https://www.lanzous.com/i9u6n6j)
+
+17. [截图snipaste](https://www.microsoft.com/store/productId/9P1WXPKB68KX)
+
+18. [smartup手势](https://chrome.google.com/webstore/detail/smartup-gestures/bgjfekefhjemchdeigphccilhncnjldn)
+
+19. [谷歌访问](https://chrome.google.com/webstore/detail/jjdbbdhcbjmdnpdbhcilaghbbicjkldc)
+
+20. []()
+
+21. []()
+
+22. []()
+
+23. []()
+
+24. []()
+
+25. []()
+
+26. []()
+
+27. []()
+
+28. []()
+
+29. []()
+
+30. []()
+
+31. []()
+
+32. []()
+
+33. []()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
